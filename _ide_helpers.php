@@ -1,4 +1,4 @@
-<?php die("Access denied!");
+<?php __halt_compiler();
 /**
  * ---------------- DO NOT UPLOAD THIS FILE TO LIVE SERVER ------------------------
  * Laravel IDE Helper <http://LaravelBook.com>
